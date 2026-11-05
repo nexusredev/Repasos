@@ -1,0 +1,2 @@
+Luis Pérez;Laptop;Pantalla rota;25.0;0.0;Pendiente
+Ana Gómez;Celular;No enciende;15.0;0.0;Pendiente

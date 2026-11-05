@@ -1,0 +1,3 @@
+Ryzen 5 5600X;Procesador;180.0;10
+RTX 3060 12GB;Gráfica;320.0;5
+RAM Corsair 16GB;RAM;45.0;15
